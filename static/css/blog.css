@@ -1,0 +1,165 @@
+@font-face { font-family: Renzo; src: url('../fonts/renzo.otf'); }
+@font-face { font-family: Lane; src: url('../fonts/LANENAR_.ttf'); }
+@font-face { font-family: Print; src: url('../fonts/PRINC___.TTF'); }
+@font-face { font-family: Linux; src: url('../fonts/LinBiolinum_R.ttf'); }
+@font-face { font-family: Sheep; src: url('../fonts/sheep_sans.ttf'); }
+@font-face { font-family: Droid; src: url('../fonts/DroidSansMonoDotted.ttf'); }
+@font-face { font-family: Nonserif; src: url('../fonts/Nonserif.ttf'); }
+@font-face { font-family: Helvetica; src: url('../fonts/HelveticaBQ-Light.otf'); }
+@font-face { font-family: HelveticaLight; src: url('../fonts/HelveticaBQ-UltraLight.otf'); }
+@font-face { font-family: Alte; src: url('../fonts/AlteHaasGroteskRegular.ttf'); }
+@font-face { font-family: Bebas; src: url('../fonts/BebasNeue.ttf'); }
+
+body {
+    font-family: Sheep;
+    font-size: 12pt;
+    color: #4A4A4A;
+    background-color: #fafafa;
+    float: none;
+    margin-bottom: 100px;
+}
+
+#cont {
+    margin: 5px auto;
+    width: 600px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #028;
+}
+
+.blog-title {
+    font-family: HelveticaLight;
+    font-size: 40px;
+    margin: 0 auto;
+    padding: 75px 0 50px 0;
+    text-align: center;
+}
+
+.home-posts {
+    font-family: Sheep;
+    margin-top: 25px;
+}
+
+.post-wrapper {
+    word-spacing: 1.5px;
+}
+
+.post-wrapper a {
+    color: #585858;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.post-title {
+    font-family: Sheep;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.post-author {
+    margin-top: 26px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.post-date {
+    font-size: 12px;
+    font-family: Sheep;
+    color: #707070;
+    text-align: center;
+    margin-top: px;
+    padding: 6px 50px;
+    margin-bottom: 28px;
+}
+
+.credit {
+    text-align: center;
+    font-size: 14px;
+    font-color: #222;
+}
+
+.bottombar {
+    margin-top: 24px;
+}
+
+.date {
+    font-family: Sheep;
+    color: #707070;
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+
+.title-home {
+    font-size: 24px;
+    text-align: center;
+    font-family: Sheep;
+    margin-bottom: 30px;
+}
+
+.preview {
+    margin-bottom: 75px;
+}
+
+p {
+    margin: 18px 0;
+    font-size: 1.0em;
+    line-height: 20px;
+    text-align: justify;
+}
+
+pre {
+    padding: 10px;
+    margin: 25px;
+}
+
+code {
+    font-family: Droid, sans-serif;
+    font-size: 11px;
+    line-height: 1.2em;
+}
+
+.top-link {
+    font-family: HelveticaLight;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.month-preview {
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.month {
+    font-size: 14px;
+    color: #707070;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+table {
+    border-top: 1px solid black;
+    font-size: 10.25pt;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+td {
+    padding-left: 5px;
+    padding-right: 5px;
+}

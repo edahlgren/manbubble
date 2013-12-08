@@ -3,7 +3,7 @@ author: E. Dahlgren
 
 Hey dude.
 
-You just landed in the tech mecca of California with a plethora of corny American Apparel t-shirts (you knew you were supposed to dress down, so you could join the Church of Casual).  Get ready for a financially bloated bubble of endless fun, right?  Congratualtions!  Well, let's be honest, that's not all untrue: who *doesn't* love being spoon fed from a giant financial bubble?  But you look around and one thing strikes you as odd: where are all the chicks?
+You just landed in the tech mecca of California.  You've hardly unpacked that plethora of cheap American Apparel t-shirts.  Get ready for a financially bloated bubble of endless fun, right?  Well, let's be honest, that's not all untrue: who *doesn't* love being spoon fed from a giant financial bubble?  But you look around and one thing strikes you as odd: where are all the chicks?
 
 Hate to break it to you, man, but there's relatively few of us here.  We creep around silently, passing in an out of coffee shops like ghosts in the night, disguised as androgyne in men's sized swag.  Great news: most of us don't have three heads.  Some of us are even pretty cute.  Smart?  Well, buckle up.
 

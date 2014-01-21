@@ -11,7 +11,7 @@
 @font-face { font-family: Bebas; src: url('../fonts/BebasNeue.ttf'); }
 
 body {
-    font-family: Sheep;
+    font-family: Lane;
     font-size: 12pt;
     color: #4A4A4A;
     background-color: #fafafa;
@@ -38,7 +38,7 @@ h2 {
 }
 
 .home-posts {
-    font-family: Sheep;
+    font-family: Lane;
     margin-top: 25px;
 }
 
@@ -56,8 +56,8 @@ a {
 }
 
 .post-title {
-    font-family: Sheep;
-    font-size: 36px;
+    font-family: Lane;
+    font-size: 26px;
     text-align: center;
     margin-top: 60px;
 }
@@ -70,7 +70,7 @@ a {
 
 .post-date {
     font-size: 12px;
-    font-family: Sheep;
+    font-family: Lane;
     color: #707070;
     text-align: center;
     margin-top: px;
@@ -89,7 +89,7 @@ a {
 }
 
 .date {
-    font-family: Sheep;
+    font-family: Lane;
     color: #707070;
     text-align: center;
     font-size: 11px;
@@ -99,7 +99,7 @@ a {
 .title-home {
     font-size: 24px;
     text-align: center;
-    font-family: Sheep;
+    font-family: Lane;
     margin-bottom: 30px;
 }
 
